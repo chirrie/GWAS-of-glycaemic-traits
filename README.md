@@ -3,4 +3,4 @@ This repo contains the sample code that was used in the paper " Genome-wide asso
 glycaemic traits in the continental African AWI-Gen cohort, which has been submitted for consideration for publication in Diabetologia
 
 
-##### A jupyter notebook "Glycemic traits analysis scripts (1).ipynb" is provided which explains how each script was used in this analysis
+##### A jupyter notebook "Glycemic traits analysis scripts.ipynb" is provided which explains how each script was used in this analysis
