@@ -1,3 +1,5 @@
+install.packages("qqman")
+load ("qqman)
 png("FI—maleINT-manp.png", width=2000,height=800,res=150)
  par(mar = c(5.1, 4.1, 1.1, 2.1))
 par(las=1)
