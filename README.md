@@ -1,3 +1,5 @@
+The provided scripts were used to analyze glycaemic traits in the AWI-Gen cohort. These analyses support the findings in the paper titled 'Genome-wide association study identifying novel risk variants associated with glycaemic traits in the continental African AWI-Gen cohort,' which has been accepted for publication in Diabetologia. The scripts primarily focus on tasks such as data cleaning, file format conversions, updating rsIDs, and more, as detailed in the attached descriptions
+
 ```python
 1. Explorative-FG.R
  ##a script to generate  descriptive statistics of the data
